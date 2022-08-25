@@ -1,2 +1,4 @@
 # Leo-ARC1155
-Build a ERC1155 type contract for Leo
+Implement a ERC-1155 type multi-token standard for Leo. 
+
+Note: The ERC-1155 token standard outlines multiple classes of tokens from non-fungible to fungible. 
